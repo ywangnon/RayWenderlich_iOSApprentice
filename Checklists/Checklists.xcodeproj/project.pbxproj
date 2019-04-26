@@ -59,8 +59,8 @@
 			isa = PBXGroup;
 			children = (
 				0144BF3020BEE763004E2ADB /* AppDelegate.swift */,
-				0144BF3220BEE763004E2ADB /* ChecklistViewController.swift */,
 				0144BF4220BF86BC004E2ADB /* ChecklistItem.swift */,
+				0144BF3220BEE763004E2ADB /* ChecklistViewController.swift */,
 				01DAFAF920C56D2600606738 /* AddItemViewController.swift */,
 				0144BF3420BEE763004E2ADB /* Main.storyboard */,
 				0144BF3720BEE765004E2ADB /* Assets.xcassets */,
